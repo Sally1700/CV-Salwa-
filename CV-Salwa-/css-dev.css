@@ -4,6 +4,7 @@ body {
     padding: 0;
     line-height: 1.6;
     color: #333;
+    font-family: 'Open Sans', serif;
 }
 
 header {
@@ -15,10 +16,11 @@ header {
 
 }
 header p{
+    font-family: 'Roboto', serif;
     flex-wrap: wrap;
     font-size: 1.0em;
     margin-right: 25%;
-    margin-left: 5 px;
+    margin-left: 5px;
 }
 img {
     width: 150px; 
